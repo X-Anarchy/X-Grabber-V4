@@ -1,6 +1,6 @@
 @echo off
 echo Compiling..
-pyinstaller XGV4.py
+pyinstaller --onefile XGV4.py
 clear
 echo Finished Compiling..
 echo.
